@@ -89,7 +89,7 @@ Para obtener una copia local y ponerla en funcionamiento, sigue estos simples pa
 
 1. **Clona el repositorio**
    ```sh
-   git clone https://github.com/
+   git clone https://github.com/cdavidbm/Color-Palette-Generator.git
    ```
 2. **Instala las dependencias**
    ```sh
